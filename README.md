@@ -1,6 +1,6 @@
 # 🚀 QLoRA LLM Fine-Tuning on Google Colab - Professional Implementation
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/qlora-colab-finetuning/blob/main/DistilGPT2_QLoRA_FineTuning.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SIa3f7Q8EqMZol5OhWEUYNrnQ92wg65i#scrollTo=veMcZLPdeDK6)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/downloads/)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging%20Face-yellow)](https://huggingface.co)
