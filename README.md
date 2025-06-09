@@ -25,7 +25,7 @@ This repository provides a production-grade implementation for fine-tuning large
 | **Mistral** | 7B | `q_proj`, `v_proj` | 12.1 GB | 1 (gradient accumulation) |
 
 ## ⚙️ Technical Architecture
-'''mermaid
+```mermaid
 graph TD
     A[Google Colab] --> B[4-bit Quantization]
     B --> C[LoRA Adapters]
@@ -37,4 +37,4 @@ graph TD
     H --> I[QLoRA Training]
     I --> J[Model Evaluation]
     J --> K[Inference API]
-'''
+```
