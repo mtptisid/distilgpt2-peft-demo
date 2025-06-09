@@ -3,7 +3,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SIa3f7Q8EqMZol5OhWEUYNrnQ92wg65i#scrollTo=veMcZLPdeDK6)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/downloads/)
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging%20Face-yellow)](https://huggingface.co)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging%20Face-yellow)](https://huggingface.co/mtpti5iD)
 
 ## 📖 Overview
 This repository provides a production-grade implementation for fine-tuning large language models (LLMs) using QLoRA (Quantized Low-Rank Adaptation) on Google Colab. The solution enables efficient adaptation of 100M-7B parameter models using consumer-grade GPUs through 4-bit quantization and Low-Rank Adapters.
