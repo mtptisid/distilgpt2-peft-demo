@@ -39,6 +39,8 @@ graph TD
     J --> K[Inference API]
 ```
 
+---
+
 ```mermaid
 graph LR
     A[Base LLM] --> B[4-bit Quantization]
