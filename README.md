@@ -38,3 +38,34 @@ graph TD
     I --> J[Model Evaluation]
     J --> K[Inference API]
 ```
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Google Colab account
+- Hugging Face account (for model access)
+- Basic Python knowledge
+
+### Installation
+```
+# Clone repository
+!git clone https://github.com/mtptisid/distilgpt2-peft-demo/
+%cd distilgpt2-peft-demo
+
+# Install dependencies
+!pip install -U transformers==4.38.0 accelerate==0.27.0 peft==0.8.0 bitsandbytes==0.42.0 datasets==2.16.0
+```
+
+
+## 🙏 Acknowledgements
+- Hugging Face Transformers team
+- Tim Dettmers for QLoRA research
+- Google Colab for free GPU resources
+- Microsoft for Phi-2 model
+
+## 📞 Support
+For issues and feature requests, please [open an issue](https://github.com/yourusername/qlora-colab-finetuning/issues)
+
+---
+
+**⭐ Pro Tip:** Star this repository to stay updated with the latest improvements!
