@@ -39,6 +39,15 @@ graph TD
     J --> K[Inference API]
 ```
 
+```mermaid
+graph LR
+    A[Base LLM] --> B[4-bit Quantization]
+    B --> C[LoRA Adapter Injection]
+    C --> D[Efficient Training]
+    D --> E[Adapter Merging]
+    E --> F[Quantized Inference]
+```
+
 ## 🚀 Getting Started
 
 ### Prerequisites
